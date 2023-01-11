@@ -19,7 +19,7 @@
 
 ### <img src="./images/stats.gif" width="30" height="30"> ***About Me***
 
-* 💼 Ruby Developer ()
+* 💼 Ruby on Rails Developer
 * ❤️ I love writing Ruby, and learn about it
 * 📫 Ask me anything you want [**here**](https://fb.com/haotv03), If I were alive, I would reply within seconds 😉
 * 🔭 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
